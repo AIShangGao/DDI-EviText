@@ -1,6 +1,6 @@
 We provide DrugBank benchmark datasets and TWOSIDES benchmark datasets. You can access them via the following Google Drive links:
 
-[Benchmark datasets](https://drive.google.com/file/d/1WnGw2aDdC8WWuzDCRlywgRdzZN5Nudi2/view?usp=drive_link)
+[Benchmark datasets](https://drive.google.com/file/d/1WSPYbNdngCTECRYD2pTF-q-kUruR8HBm/view?usp=drive_link)
 
 
 The directory structure of `DrugBank` is as follows:

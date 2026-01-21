@@ -19,7 +19,7 @@ The following packages are required for running GenART. Compatibility is guarant
 
 We provide DrugBank benchmark datasets and TWOSIDES benchmark datasets for pretrained models. You can access them via the following Google Drive links:
 
-[Benchmark datasets](https://drive.google.com/file/d/1WnGw2aDdC8WWuzDCRlywgRdzZN5Nudi2/view?usp=drive_link)
+[Benchmark datasets](https://drive.google.com/file/d/1WSPYbNdngCTECRYD2pTF-q-kUruR8HBm/view?usp=drive_link)
 
 ## Usage
 We provide code for Supervised Fine-Tuning and Inference, which can be found in `model_sft.py` and `vLLM_inference.py`.

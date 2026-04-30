@@ -1,4 +1,4 @@
-# E-CoRD
+# DDI-EviText
 
 This repository contains the pytorch implementation of **Evidence-grounded consensus reasoning enables drug–drug interaction prediction for emerging drugs and rare interactions**. 
 

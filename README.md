@@ -2,9 +2,9 @@
 
 This repository contains the pytorch implementation of **Evidence-grounded consensus reasoning enables drug–drug interaction prediction for emerging drugs and rare interactions**. 
 
-![ramework for E-CoRD.](E-CoRD.png)
+![ramework for DDI-EviText.](DDI-EviText.png)
 
-**Framework for E-CoRD.** The diagram outlines the key modules: Biological Evidence Retrieval and Unification, Tail-Aware and Pharmacology-Guided Training, and Consensus-Driven Consistent Inference.
+**Framework for DDI-EviText.** The diagram outlines the key modules: Biological Evidence Retrieval and Unification, Tail-Aware and Pharmacology-Guided Training, and Consensus-Driven Consistent Inference.
 
 ## Setup
 
